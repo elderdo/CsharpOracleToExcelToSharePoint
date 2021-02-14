@@ -1,0 +1,32 @@
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\bin\Release\LiveSwitch.TextControl.exe.config
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\TextControl.csproj.ResolveComReference.cache
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\bin\Release\LiveSwitch.TextControl.exe
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\bin\Release\LiveSwitch.TextControl.pdb
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.ConfigureSMTPForm.resources
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.Editor.resources
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.LinkDialog.resources
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.SplashForm.resources
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.TextInsertForm.resources
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\TextControl.csproj.GenerateResource.Cache
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.exe
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\LiveSwitch.TextControl.pdb
+C:\Users\zf297a\Documents\htmlEditor\TextControl\TextControl\obj\Release\TextControl.csprojResolveAssemblyReference.cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\bin\Release\LiveSwitch.TextControl.exe.config
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\bin\Release\LiveSwitch.TextControl.exe
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\bin\Release\LiveSwitch.TextControl.pdb
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\TextControl.csprojResolveAssemblyReference.cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\TextControl.csproj.ResolveComReference.cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.ConfigureSMTPForm.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.Editor.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.LinkDialog.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.SplashForm.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.TextInsertForm.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\TextControl.csproj.GenerateResource.Cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.exe
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\goldMS2rdmsExceptionReport\TextControl\obj\Release\LiveSwitch.TextControl.pdb

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+      <section name="GoldMS2RDMSExceptRpt.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+    <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+      <section name="GoldMS2RDMSExceptRpt.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+  </startup>
+  <connectionStrings>
+    <add name="Dev" connectionString="Data Source=descm;user id=msms;password=dmsms" />
+  </connectionStrings>
+  <appSettings>
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+  </appSettings>
+  <system.diagnostics>
+    <trace autoflush="true" indentsize="4">
+      <listeners>
+        <add name="myListener" type="System.Diagnostics.TextWriterTraceListener" initializeData="c:\Users\zf297a\Documents\GoldMS2RDMSExceptRpt.log" traceOutputOptions="DateTime" />
+        <!-- add name="myListener" type="System.Diagnostics.TextWriterTraceListener" initializeData="c:\Users\m283672\Documents\GoldMS2RDMSExceptRpt.log"
+               traceOutputOptions="DateTime" -->
+        <add name="Default" type="System.Diagnostics.DefaultTraceListener" />
+      </listeners>
+    </trace>
+  </system.diagnostics>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+  <userSettings>
+    <GoldMS2RDMSExceptRpt.Properties.Settings>
+      <setting name="sharePointDrive" serializeAs="String">
+        <value>Q</value>
+      </setting>
+      <setting name="emailMsg" serializeAs="String">
+        <value>C:\Users\zf297a\Documents\GoldMS2RDMSExceptRpt.htm</value>
+      </setting>
+      <setting name="sendTo" serializeAs="Xml">
+        <value>
+          <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <string>stephen.m.su@boeing.com</string>
+            <string>dawn.m.stevens@boeing.com</string>
+            <string>lawrence.d.sims@boeing.com</string>
+          </ArrayOfString>
+        </value>
+      </setting>
+      <setting name="sendCC" serializeAs="Xml">
+        <value>
+          <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <string>arturo.c.valle@boeing.com</string>
+            <string>steven.d.larsen@boeing.com</string>
+            <string>rick.e.phillips@boeing.com</string>
+            <string>brad.s.behrens@boeing.com</string>
+            <string>viji.menon@boeing.com</string>
+            <string>michael.j.brady4@boeing.com</string>
+            <string>douglas.s.elder@boeing.com</string>
+            <string>paul.r.petrucelly@boeing.com</string>
+          </ArrayOfString>
+        </value>
+      </setting>
+      <setting name="exceptRpt" serializeAs="String">
+        <value>system_compare.xls</value>
+      </setting>
+      <setting name="sharePointUNC" serializeAs="String">
+        <value>\\vtr2b.web.boeing.com\ids\escmtools\Team Documents</value>
+      </setting>
+    </GoldMS2RDMSExceptRpt.Properties.Settings>
+  </userSettings>
+  <applicationSettings>
+    <GoldMS2RDMSExceptRpt.Properties.Settings>
+      <setting name="displayGrid" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="showMsgBox" serializeAs="String">
+        <value>False</value>
+      </setting>
+    </GoldMS2RDMSExceptRpt.Properties.Settings>
+  </applicationSettings>
+</configuration>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+   <connectionStrings>
+        <add name="Dev" connectionString="Data Source=descm;user id=msms;password=dmsms" />
+    </connectionStrings>
+   <appSettings>
+     <add key="exception_rpt" value="test.xls"/>
+     <add key="sharePointUNC" value="\\vtr2b.web.boeing.com\ids\escmtools\Team Documents"/>
+     <add key="sharePointDrive" value="Q"/>
+     <add key="displayGrid" value="true" />
+     <add key="email1" value="elderdo@yahoo.com"/>
+     <add key="email2" value="douglas.s.elder@boeing.com"/>  
+   </appSettings>
+   <system.diagnostics>
+      <trace autoflush="true" indentsize="4">
+        <listeners>
+          <add name="myListener" type="System.Diagnostics.TextWriterTraceListener" initializeData="c:\Users\zf297a\Documents\GoldMS2RDMSExceptRpt.log"
+               traceOutputOptions="DateTime" />
+          <add name="Default" type="System.Diagnostics.DefaultTraceListener" />
+        </listeners>
+      </trace>
+    </system.diagnostics>
+</configuration>

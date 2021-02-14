@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GoldMS2RDMSExceptRpt.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sharePointDrive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Q</Value>
+    </Setting>
+    <Setting Name="sendTo" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;stephen.m.su@boeing.com&lt;/string&gt;
+  &lt;string&gt;dawn.m.stevens@boeing.com&lt;/string&gt;
+  &lt;string&gt;lawrence.d.sims@boeing.com&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="sendCC" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;arturo.c.valle@boeing.com&lt;/string&gt;
+  &lt;string&gt;steven.d.larsen@boeing.com&lt;/string&gt;
+  &lt;string&gt;rick.e.phillips@boeing.com&lt;/string&gt;
+  &lt;string&gt;brad.s.behrens@boeing.com&lt;/string&gt;
+  &lt;string&gt;viji.menon@boeing.com&lt;/string&gt;
+  &lt;string&gt;michael.j.brady6@boeing.com&lt;/string&gt;
+  &lt;string&gt;douglas.s.elder@boeing.com&lt;/string&gt;
+  &lt;string&gt;paul.r.petrucelly@boeing.com&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="exceptRpt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">system_compare.xls</Value>
+    </Setting>
+    <Setting Name="sharePointUNC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\vtr2b.web.boeing.com\ids\escmtools\Team Documents</Value>
+    </Setting>
+    <Setting Name="displayGrid" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="showMsgBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="runDay" Type="System.DayOfWeek" Scope="User">
+      <Value Profile="(Default)">Monday</Value>
+    </Setting>
+    <Setting Name="startTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="endTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="appName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GOLD MS2 RDMS Exception Report</Value>
+    </Setting>
+    <Setting Name="emailMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GoldMS2RDMSExceptRpt.htm</Value>
+    </Setting>
+    <Setting Name="confirmDuplicate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,17 @@
+2016-01-17 23:42:45,error,GOLD MS2 RDMS Exception Report,This application should only run on Monday between 7 and 12
+2016-01-18 00:11:04,error,GOLD MS2 RDMS Exception Report,This application should only run on Monday between 0 and 12
+2016-01-18 00:11:31,error,GOLD MS2 RDMS Exception Report,This application should only run on Monday between 0 and 12
+2016-01-18 00:35:11,info,ExceptRpt,Excel file created: C:\Users\zf297a\Documents\test_compare.xls
+2016-01-18 00:35:23,info,SharePoint,C:\Users\zf297a\Documents\test_compare.xls copied to \\vtr2b.web.boeing.com\ids\escmtools\Team Documents\test_compare.xls
+2016-01-18 00:39:57,info,ExceptRpt,Excel file created: C:\Users\zf297a\Documents\test_compare.xls
+2016-01-18 00:40:08,info,SharePoint,C:\Users\zf297a\Documents\test_compare.xls copied to \\vtr2b.web.boeing.com\ids\escmtools\Team Documents\test_compare.xls
+2016-01-18 00:42:46,info,ExceptRpt,Excel file created: C:\Users\zf297a\Documents\test_compare.xls
+2016-01-18 00:42:58,info,SharePoint,C:\Users\zf297a\Documents\test_compare.xls copied to \\vtr2b.web.boeing.com\ids\escmtools\Team Documents\test_compare.xls
+2016-01-18 01:01:03,error,GOLD MS2 RDMS Exception Report,This application should only run on Monday between 7 and 12
+2016-01-18 14:45:26,info,ExceptRpt,Excel file created: C:\Users\zf297a\Documents\system_compare.xls
+2016-01-18 14:49:55,info,ExceptRpt,Excel file created: C:\Users\zf297a\Documents\system_compare.xls
+2016-01-18 15:35:49,info,ExceptRpt,Excel file created: C:\Users\zf297a\Documents\system_compare.xls
+2016-01-18 15:36:25,warning,frmDisplayData,The file system_compare.xls was already created on 01/18/16
+2016-01-18 15:39:38,info,ExceptRpt,Excel file created: C:\Users\zf297a\Documents\system_compare.xls
+2016-01-18 15:40:05,warning,frmDisplayData,The file system_compare.xls was already created on 01/18/16
+2016-01-25 11:08:30,info,ExceptRpt,Excel file created: C:\Users\zf297a\Documents\system_compare.xls

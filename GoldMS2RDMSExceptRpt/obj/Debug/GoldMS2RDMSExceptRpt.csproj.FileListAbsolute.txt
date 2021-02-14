@@ -1,0 +1,9 @@
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\bin\Debug\GoldMS2RDMSExceptRpt.exe.config
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\obj\Debug\GoldMS2RDMSExceptRpt.Login.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\obj\Debug\GoldMS2RDMSExceptRpt.Properties.Resources.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\obj\Debug\GoldMS2RDMSExceptRpt.csproj.GenerateResource.Cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\bin\Debug\GoldMS2RDMSExceptRpt.exe
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\bin\Debug\GoldMS2RDMSExceptRpt.pdb
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\obj\Debug\GoldMS2RDMSExceptRpt.exe
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\obj\Debug\GoldMS2RDMSExceptRpt.pdb
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\obj\Debug\GoldMS2RDMSExceptRpt.frmDisplayData.resources

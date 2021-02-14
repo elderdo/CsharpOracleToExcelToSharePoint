@@ -1,0 +1,29 @@
+GoldMS2RDMSExceptRpt.vshost.exe Error: 0 : The remote server returned an error: (401) Unauthorized.
+https://collab.web.boeing.com/sites/gssItSupForecast
+GoldMS2RDMSExceptRpt.vshost.exe Error: 0 : The remote server returned an error: (401) Unauthorized.
+https://collab.web.boeing.com/sites/gssItSupForecast
+GoldMS2RDMSExceptRpt.vshost.exe Error: 0 : The remote server returned an error: (401) Unauthorized.
+https://collab.web.boeing.com/sites/gssItSupForecast
+GoldMS2RDMSExceptRpt.vshost.exe Error: 0 : System
+The remote server returned an error: (401) Unauthorized.
+https://collab.web.boeing.com/sites/gssItSupForecast
+GoldMS2RDMSExceptRpt.vshost.exe Error: 0 :    at System.Net.HttpWebRequest.GetResponse()
+   at Microsoft.SharePoint.Client.SPWebRequestExecutor.Execute()
+   at Microsoft.SharePoint.Client.File.SaveBinary(ClientContext context, String serverRelativeUrl, Stream stream, String etag, Boolean overwriteIfExists, SaveBinaryCheckMode checkMode)
+   at Microsoft.SharePoint.Client.File.SaveBinaryDirect(ClientContext context, String serverRelativeUrl, Stream stream, Boolean overwriteIfExists)
+   at GoldMS2RDMSExceptRpt.SharePoint.upload(String fileName, String url, String documentLibraryName) in c:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\SharePoint.cs:line 29
+The remote server returned an error: (401) Unauthorized.
+https://collab.web.boeing.com/sites/gssItSupForecast
+GoldMS2RDMSExceptRpt.vshost.exe Error: 0 :    at Microsoft.SharePoint.Client.File.SaveBinary(ClientContext context, String serverRelativeUrl, Stream stream, String etag, Boolean overwriteIfExists, SaveBinaryCheckMode checkMode)
+   at Microsoft.SharePoint.Client.File.SaveBinaryDirect(ClientContext context, String serverRelativeUrl, Stream stream, Boolean overwriteIfExists)
+   at GoldMS2RDMSExceptRpt.SharePoint.upload(String fileName, String url, String documentLibraryName) in c:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\SharePoint.cs:line 35
+Cannot invoke HTTP DAV request. There is a pending query.
+https://collab.web.boeing.com/sites/gssItSupForecast
+GoldMS2RDMSExceptRpt.vshost.exe Error: 0 :    at System.Net.HttpWebRequest.GetResponse()
+   at Microsoft.SharePoint.Client.SPWebRequestExecutor.Execute()
+   at Microsoft.SharePoint.Client.File.SaveBinary(ClientContext context, String serverRelativeUrl, Stream stream, String etag, Boolean overwriteIfExists, SaveBinaryCheckMode checkMode)
+   at Microsoft.SharePoint.Client.File.SaveBinaryDirect(ClientContext context, String serverRelativeUrl, Stream stream, Boolean overwriteIfExists)
+   at GoldMS2RDMSExceptRpt.SharePoint.upload(String fileName, String url, String documentLibraryName) in c:\Users\zf297a\Documents\Visual Studio 2013\Projects\GoldMS2RDMSExceptRpt\GoldMS2RDMSExceptRpt\SharePoint.cs:line 37
+The remote server returned an error: (401) Unauthorized.
+https://collab.web.boeing.com/sites/gssItSupForecast
+    DateTime=2015-12-08T21:19:02.2690561Z

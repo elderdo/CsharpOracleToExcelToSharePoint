@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+   <connectionStrings>
+        <add name="Dev" connectionString="Data Source=descm;user id=msms;password=dmsms" />
+    </connectionStrings>
+   <appSettings>
+     <add key="exception_rpt" value="xfile_compare.xls"/>
+     <add key="sharePointUNC" value="\\vtr2b.web.boeing.com\ids\escmtools\Team Documents"/>
+     <add key="sharePointDrive" value="Q"/>
+     <add key="displayGrid" value="false" />
+     <add key="showMsgBox" value="false"/>
+     <add key="emailMsg" value="C:\Users\zf297a\Documents\GoldMS2RDMSExceptRpt.htm"/>
+     <!-- add key="emailMsg" value="C:\Users\m283672\Documents\GoldMS2RDMSExceptRpt.htm" -->
+     <add key="email1" value="paul.r.ptrucelly@boeing.com"/>
+     <!--add key="cc1" value="douglas.s.elder@boeing.com"/>
+     
+     <add key="email2" value="dawn.m.stevens@boeing.com"/>
+     <add key="email3" value="lawrence.d.sims@boeing.com" />
+     
+     <add key="cc1" value="arturo.c.valle@boeing.com"/>
+     <add key="cc2" value="arturo.c.valle@boeing.com"/>
+     <add key="cc3" value="steven.d.larsen@boeing.com"/>
+     <add key="cc4" value="rick.e.phillips@boeing.com"/>
+     <add key="cc5" value="brad.s.behrens@boeing.com"/>
+     <add key="cc6" value="viji.menon@boeing.com"/>
+     <add key="cc7" value="michael.j.brady4@boeing.com"/>
+     <add key="cc8" value="douglas.s.elder@boeing.com"/> 
+     -->
+   <add key="cc1" value="douglas.s.elder@boeing.com"/>
+     
+   </appSettings>
+   <system.diagnostics>
+      <trace autoflush="true" indentsize="4">
+        <listeners>
+          <add name="myListener" type="System.Diagnostics.TextWriterTraceListener" initializeData="c:\Users\zf297a\Documents\GoldMS2RDMSExceptRpt.log"
+               traceOutputOptions="DateTime" />
+          <!-- add name="myListener" type="System.Diagnostics.TextWriterTraceListener" initializeData="c:\Users\m283672\Documents\GoldMS2RDMSExceptRpt.log"
+               traceOutputOptions="DateTime" -->
+          <add name="Default" type="System.Diagnostics.DefaultTraceListener" />
+        </listeners>
+      </trace>
+    </system.diagnostics>
+</configuration>
